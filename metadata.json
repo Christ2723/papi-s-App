@@ -1,0 +1,7 @@
+{
+  "name": "payerolanguageschool",
+  "description": "A comprehensive vocabulary learning platform featuring Spaced Repetition, AI-generated flashcards, Real-time Voice Tutor, and Image Editing tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
